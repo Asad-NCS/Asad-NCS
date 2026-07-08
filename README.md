@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Asad%20Kashif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile%20Dev&descAlignY=58&descSize=18"/>
 
 <p align="center">
@@ -7,16 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/asad-kashif-61349a356/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:asads2b2021@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<br/>
-
-### Currently
-
-- 5th semester, BS Computer Science @ NUST SEECS
-- Web Development Intern @ [AdVentures](https://adventures.studio), NIC Islamabad
-- Marketing Lead, NUST ACM Student Chapter
 
 ### Tech Stack
 
@@ -36,7 +26,7 @@ Also worth a look: [Djinn-e-Qafas](https://www.linkedin.com/posts/asad-kashif-61
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats-fast.vercel.app/api?username=Asad-NCS&show_icons=true&hide=stars&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad-NCS&theme=github_dark"/></td>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asad-NCS&theme=github_dark"/></td>
 </tr>
 </table>
