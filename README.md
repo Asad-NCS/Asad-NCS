@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Asad%20Kashif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile%20Dev&descAlignY=58&descSize=18"/>
 
 <p align="center">
@@ -34,13 +33,13 @@ Also worth a look: [Djinn-e-Qafas](https://www.linkedin.com/posts/asad-kashif-61
 
 ### GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad-NCS&theme=github_dark"/>
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asad-NCS&theme=github_dark"/>
-</p>
+<table align="center">
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad-NCS&theme=github_dark"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asad-NCS&theme=github_dark"/></td>
+</tr>
+</table>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=50&section=footer"/>
