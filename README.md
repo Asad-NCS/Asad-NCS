@@ -36,7 +36,7 @@ Also worth a look: [Djinn-e-Qafas](https://www.linkedin.com/posts/asad-kashif-61
 
 <table align="center">
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad-NCS&theme=github_dark"/></td>
+<td><img src="https://github-readme-stats-fast.vercel.app/api?username=Asad-NCS&show_icons=true&hide=stars&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asad-NCS&theme=github_dark"/></td>
 </tr>
 </table>
