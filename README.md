@@ -1,7 +1,8 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Asad%20Kashif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile%20Dev&descAlignY=58&descSize=18"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+at+AdVentures+%2F+NIC+Islamabad;Steganalysis+%C2%B7+Horror+Game+Dev+%C2%B7+MERN+Stack;Google+Cloud+%C2%B7+Meta+%C2%B7+DeepLearning.AI+Certified" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+at+AdVentures+%2F+NIC+Islamabad;Steganalysis+%C2%B7+Horror+Game+Dev+%C2%B7+MERN+Stack;Google+Cloud+%C2%B7+Meta+%C2%B7+DeepLearning.AI+Certified" />
 </p>
 
 <p align="center">
