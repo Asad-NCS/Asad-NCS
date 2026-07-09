@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Asad%20Kashif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile%20Dev&descAlignY=58&descSize=18"/>
 
 <p align="center">
@@ -26,8 +27,8 @@ Also worth a look: [Djinn-e-Qafas](https://www.linkedin.com/posts/asad-kashif-61
 
 <table align="center">
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asad-NCS&theme=github_dark"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asad-NCS&theme=github_dark"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
 </tr>
 </table>
 
