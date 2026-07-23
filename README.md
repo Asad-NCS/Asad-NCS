@@ -22,6 +22,15 @@ A steganalysis engine that flags hidden data exfiltration inside image files, bu
 
 Also worth a look: [Djinn-e-Qafas](https://www.linkedin.com/posts/asad-kashif-61349a356_aiseekho2026-vibekaregapakistan-googleaistudio-ugcPost-7453056177837326337-gX0S/), a Next.js/Three.js horror game built on South Asian folklore for Google Cloud AI Seekho 2026. Rest of the work is pinned below.
 
+### GitHub Stats
+
+<table align="center">
+<tr>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
+</tr>
+</table>
+
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=50&section=footer"/>
