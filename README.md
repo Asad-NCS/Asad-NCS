@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Asad%20Kashif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile%20Dev&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Asad%20Kashif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Full-Stack%20%C2%B7%20Data%20Systems%20%C2%B7%20ML&descAlignY=58&descSize=18"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+at+AdVentures+%2F+NIC+Islamabad;Steganalysis+%C2%B7+Horror+Game+Dev+%C2%B7+MERN+Stack;Google+Cloud+%C2%B7+Meta+%C2%B7+DeepLearning.AI+Certified" />
@@ -9,28 +9,27 @@
 </p>
 
 ### Tech Stack
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,mongodb,postgres,cpp,threejs,git,vscode&theme=dark" />
 </p>
 
 ### Flagship Project — LumenAid
-
 A steganalysis engine that flags hidden data exfiltration inside image files, built around four independent detection signals: Shannon entropy, chi-square analysis, segment pattern consistency, and file size delta. Runs on a polyglot PostgreSQL + MongoDB backend, with PL/pgSQL triggers, stored procedures, and materialized views doing the heavy lifting server-side rather than in application code.
 
 [View the repo →](https://github.com/Asad-NCS/lumenaid-Steganographic_Data_Exfiltration_Detection_Engine.git)
 
-Also worth a look: [Djinn-e-Qafas](https://www.linkedin.com/posts/asad-kashif-61349a356_aiseekho2026-vibekaregapakistan-googleaistudio-ugcPost-7453056177837326337-gX0S/), a Next.js/Three.js horror game built on South Asian folklore for Google Cloud AI Seekho 2026. Rest of the work is pinned below.
+Also worth a look: [Djinn-e-Qafas](https://github.com/Asad-NCS/Djinn-e-C), a Next.js/Three.js horror game built on South Asian folklore for Google Cloud AI Seekho 2026 ([writeup on LinkedIn](https://www.linkedin.com/posts/asad-kashif-61349a356_aiseekho2026-vibekaregapakistan-googleaistudio-ugcPost-7453056177837326337-gX0S/)). Rest of the work is pinned below.
+
+### Open Source
+Contributed **Hot Take Machine**, a voice-driven OpenHome Ability, to [openhome-dev/abilities](https://github.com/openhome-dev/abilities) — merged as an official community Ability ([PR #313](https://github.com/openhome-dev/abilities/pull/313)).
 
 ### GitHub Stats
-
 <table align="center">
 <tr>
-<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
-<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2"/></td>
 </tr>
 </table>
 
 <br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=50&section=footer"/>
