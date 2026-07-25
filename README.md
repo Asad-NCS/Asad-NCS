@@ -23,13 +23,5 @@ Also worth a look: [Djinn-e-Qafas](https://github.com/Asad-NCS/Djinn-e-C), a Nex
 ### Open Source
 Contributed **Hot Take Machine**, a voice-driven OpenHome Ability, to [openhome-dev/abilities](https://github.com/openhome-dev/abilities) — merged as an official community Ability ([PR #313](https://github.com/openhome-dev/abilities/pull/313)).
 
-### GitHub Stats
-<table align="center">
-<tr>
-<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3"/></td>
-<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3"/></td>
-</tr>
-</table>
-
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=50&section=footer"/>
