@@ -26,8 +26,8 @@ Contributed **Hot Take Machine**, a voice-driven OpenHome Ability, to [openhome-
 ### GitHub Stats
 <table align="center">
 <tr>
-<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2"/></td>
-<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api?username=Asad-NCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3"/></td>
+<td><img src="https://github-stats-extended-frontend-iota-gray.vercel.app/api/top-langs?username=Asad-NCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3"/></td>
 </tr>
 </table>
 
