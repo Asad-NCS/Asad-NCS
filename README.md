@@ -16,10 +16,7 @@
 ### Flagship Project — LumenAid
 A steganalysis engine that flags hidden data exfiltration inside image files, built around four independent detection signals: Shannon entropy, chi-square analysis, segment pattern consistency, and file size delta. Runs on a polyglot PostgreSQL + MongoDB backend, with PL/pgSQL triggers, stored procedures, and materialized views doing the heavy lifting server-side rather than in application code.
 
-![Stars](https://img.shields.io/github/stars/Asad-NCS/lumenaid-Steganographic_Data_Exfiltration_Detection_Engine?style=flat-square&color=38BDF8&label=stars)
-![Forks](https://img.shields.io/github/forks/Asad-NCS/lumenaid-Steganographic_Data_Exfiltration_Detection_Engine?style=flat-square&color=38BDF8&label=forks)
-
-[View the repo →](https://github.com/Asad-NCS/lumenaid-Steganographic_Data_Exfiltration_Detection_Engine)
+[View the repo →](https://github.com/Asad-NCS/lumenaid-Steganographic_Data_Exfiltration_Detection_Engine.git)
 
 Also worth a look: [Djinn-e-Qafas](https://github.com/Asad-NCS/Djinn-e-C), a Next.js/Three.js horror game built on South Asian folklore for Google Cloud AI Seekho 2026 ([writeup on LinkedIn](https://www.linkedin.com/posts/asad-kashif-61349a356_aiseekho2026-vibekaregapakistan-googleaistudio-ugcPost-7453056177837326337-gX0S/)). Rest of the work is pinned below.
 
